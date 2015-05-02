@@ -1,13 +1,13 @@
 body {
 	background-color: fff;
 	color: 000;
-	font-family: Arial, sans-serif;
+	font-family: Helvetica, sans-serif;
 	text-align: center;
 }
 
 
 h1, h2 {
-	font-weight: 100;
+	font-weight: 50;
 }
 
 .italics 

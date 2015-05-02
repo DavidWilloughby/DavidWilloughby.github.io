@@ -17,4 +17,5 @@ h1, h2 {
 
 .caps {
 	text-transform: uppercase;
+	font-style: bold;
 }

@@ -18,8 +18,11 @@ h1, h2, h3 {
 
 .caps {
 	text-transform: uppercase;
+
+.list {
+	text-align: left;
 }
 
 hr {
-	width: 240px;
+	width: 220px;
 }

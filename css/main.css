@@ -1,13 +1,14 @@
 body {
 	background-color: fff;
 	color: 000;
-	font-family: Helvetica, sans-serif;
+	font-family: Old-Standard-TT, serif;
 	text-align: center;
 }
 
 
 h1, h2 {
 	font-weight: 50;
+	font-family: Cabin, sans-serif;
 }
 
 .italics 
@@ -21,5 +22,5 @@ h1, h2 {
 }
 
 hr {
-	width: 300px;
+	width: 240px;
 }

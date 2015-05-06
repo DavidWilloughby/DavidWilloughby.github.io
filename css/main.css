@@ -14,14 +14,13 @@ h1, h2 {
 	font-weight: 400;
 }
 
+p {
+	font-family: 'Noto Serif', serif;
+}
+
 .slogan 
 {
 	font-style: italic;
-}
-
-.list {
-	text-align: left;
-	margin-left: 10em;
 }
 
 hr {

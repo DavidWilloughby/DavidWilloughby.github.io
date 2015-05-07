@@ -29,4 +29,5 @@ hr {
 
 ul {
 	display: inline-block;
+	text-align: left;
 }

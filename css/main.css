@@ -26,3 +26,7 @@ p, ul {
 hr {
 	width: 220px;
 }
+
+ul {
+	display: inline-block;
+}

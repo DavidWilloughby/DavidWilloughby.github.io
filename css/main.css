@@ -18,13 +18,12 @@ p, ul {
 	font-family: 'Noto Serif', serif;
 }
 
-.slogan 
-{
+.listhead {
 	font-style: italic;
 }
 
-.listhead {
-	font-style: italic;
+.credit {
+	font-size: 10px;
 }
 
 hr {

@@ -16,6 +16,16 @@ h2 {
   line-height: 2;
 }
 
+nav {
+  text-align: center;
+  text-decoration: none;
+  padding:  2em 10em;
+}
+
+nav a:hover {
+  color: red;
+}
+
 #container {
   width: 960px;
   margin: 0 auto;

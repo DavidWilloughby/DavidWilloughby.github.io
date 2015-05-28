@@ -34,6 +34,8 @@ nav a:hover {
 footer {
   text-align: center;
   font-size: 0.8em;
+  color: ffffff;
+  background-color: #505050;
 }
 
 .container {

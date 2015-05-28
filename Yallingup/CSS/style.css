@@ -6,7 +6,7 @@ h1 {
   font-size: 40px;
   text-decoration: underline;
   font-variant: uppercase;
-  font-stretch: expanded;
+  letter-spacing: 1.5em;
   text-align: center;
   line-height: 2;
 }

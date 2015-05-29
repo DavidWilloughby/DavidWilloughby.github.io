@@ -35,7 +35,7 @@ h2 {
 header img {
   width: 20%;
   float: left;
-  padding: 5px;
+  padding: 10px;
 }
 
 img {
@@ -83,7 +83,7 @@ footer {
 }
 
 .video {
-  margin: 0px 140px 20px 140px;
+  margin: 0 auto;
 }
 
 .container {

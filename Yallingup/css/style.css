@@ -78,13 +78,9 @@ footer {
   padding: 15px; 
 }
 
-.clearfix {
-  clear: both;
-}
-
 .thumbnail {
   display: inline;
-  width: 15%;
+  width: 12%;
   float: left;
   padding: 10px 10px 10px 140px;
 

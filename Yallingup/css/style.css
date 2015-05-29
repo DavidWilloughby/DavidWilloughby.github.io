@@ -44,6 +44,7 @@ img {
   margin: 0 auto;
 }
 nav {
+  padding: 2em;
    text-align: center;
 }
 nav a {
@@ -59,7 +60,7 @@ nav a:hover {
 }
 
 p {
-  padding: 0px 100px 0px 100px;
+  padding: 0px 140px 0px 140px;
 }
 
 footer {

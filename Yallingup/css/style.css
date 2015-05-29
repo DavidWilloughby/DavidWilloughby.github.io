@@ -59,7 +59,7 @@ nav a:hover {
   color: red;
 }
 
-nav a:hover a.on {
+.on {
   color: red;
 }
 

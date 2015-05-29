@@ -8,8 +8,7 @@ h1 {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 5px;
-  text-align: center;
-  line-height: 2;
+  text-align: right;
 }
 
 h2 {
@@ -18,13 +17,21 @@ h2 {
   font-weight: 400;
   line-height: 2;
 }
-
-img {
-  padding: 0 auto;
+header img {
+  width: 20%;
+  float: left;
 }
 
+img {
+  width: 95%;
+  display: block;
+  margin: 0 auto;
+}
+nav {
+  padding: 2em;
+   text-align: center;
+}
 nav a {
-  text-align: center;
   color: #000000;
   text-decoration: none;
   text-transform: uppercase;

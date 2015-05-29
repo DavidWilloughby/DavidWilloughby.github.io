@@ -25,6 +25,11 @@ h2 {
   padding-top: 100px;
 }
 
+h3 {
+  font-size: 18px;
+  font-weight: 400;
+}
+
 .highlight {
  background-color: #ffffff;
  letter-spacing: 0.1em;

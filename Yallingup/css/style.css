@@ -82,6 +82,10 @@ footer {
   padding: 0px 140px 20px 140px;
 }
 
+.video {
+  padding: 20px auto;
+}
+
 .container {
   width: 960px;
   margin: 0 auto;

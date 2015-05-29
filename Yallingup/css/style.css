@@ -78,6 +78,14 @@ footer {
   padding: 15px; 
 }
 
+.thumbnail {
+  display: inline;
+  width: 20%;
+  float: left;
+  padding: 10px;
+
+}
+
 .map {
   padding: 0px 140px 20px 140px;
 }

@@ -59,6 +59,11 @@ nav a:hover {
   color: red;
 }
 
+p {
+  padding: 0px 20px 0px 20px;
+
+}
+
 footer {
   text-align: center;
   font-size: 0.8em;

@@ -79,12 +79,11 @@ footer {
 }
 
 .map {
-      margin-left: auto;
-    margin-right: auto;
+  padding: 0px 140px 20px 140px;
 }
 
 .video {
-  padding: 20px auto;
+  margin: 0px 140px 20px 140px;
 }
 
 .container {

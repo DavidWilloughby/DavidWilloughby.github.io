@@ -59,6 +59,10 @@ nav a:hover {
   color: red;
 }
 
+nav a:hover a.on {
+  color: red;
+}
+
 p {
   font-family: Georgia, serif;
   padding: 0px 140px 20px 140px;

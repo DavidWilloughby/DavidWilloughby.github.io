@@ -3,6 +3,10 @@ body {
   background-image: url("images/bread.jpg");
 }
 
+header {
+  background-image: url("images/bread.jpg");
+}
+
 h1 {
   font-size: 40px;
   text-decoration: underline;

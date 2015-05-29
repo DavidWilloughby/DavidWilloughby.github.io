@@ -14,13 +14,13 @@ h1 {
   font-weight: 400;
   letter-spacing: 5px;
   text-align: center;
-  padding-top: 270px;
+  padding-top: 320px;
 
 }
 
-h1 span {
+.highlight {
  background-color: #ffffff;
- opacity: 0.5;
+ opacity: 0.7;
  padding: 0.2em;
 }
 

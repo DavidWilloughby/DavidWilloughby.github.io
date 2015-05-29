@@ -14,8 +14,9 @@ h1 {
   font-weight: 400;
   letter-spacing: 5px;
   text-align: center;
-  margin-top: 270px;
+  padding-top: 270px;
   background-color: #ffffff;
+  display: inline;
 }
 
 h2 {
@@ -24,6 +25,7 @@ h2 {
   font-weight: 400;
   line-height: 2;
   background-color: #ffffff;
+  display: inline;
 }
 header img {
   width: 20%;

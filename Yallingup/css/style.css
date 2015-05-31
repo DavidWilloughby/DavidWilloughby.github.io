@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  background-image: url("http://DavidWilloughby.github.io/Yallingup/images/bread.jpg");
+  background-image: url("../images/bread.jpg");
   height: 667px;
 }
 
@@ -78,7 +78,13 @@ footer {
   line-height: 2;
   padding: 15px; 
 }
+h3 {
+  margin-top: 10px;
+}
 
+.align {
+  display: block;
+}
 .thumbnail {
   display: inline;
   width: 12%;
@@ -92,7 +98,9 @@ footer {
 }
 
 .video {
-  padding: 0px 140px 20px 140px;
+  display: block;
+  margin: 0 auto;
+  padding: 0px 0px 20px 0px;
 }
 
 .container {

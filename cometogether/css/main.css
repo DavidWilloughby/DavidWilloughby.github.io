@@ -15,10 +15,10 @@ header {
 
 h1 {
 	font-family: 'Oswald', sans-serif;
-	font-size: 3em;
+	font-size: 5em;
 	font-weight: 700;
 	float: left;
-	padding: 0 1em;
+	padding: 1em;
 }
 
 h1 a {
@@ -40,13 +40,15 @@ ul {
 }
 
 nav {
-	float: right;
-	padding: 2.3em 1em 1em 1em;
+	clear: both;
+	display: block;
+	padding: 1em;
 }
 
 nav a {
 	padding: 1em;
 	text-transform: uppercase;
+	font-weight: bold;
 }
 
 img {

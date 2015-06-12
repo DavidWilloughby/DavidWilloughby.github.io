@@ -41,17 +41,11 @@ img {
 	clear: both;
 }
 
-/*.columnwrapper {
-	display: block;
-	margin: 2em 0 2em 1em;
-	width: 95%;
-}*/
-
 .column {
 	float: left;
 	display: inline;
 	width: 40%;
-	margin: 1em;
+	margin: 1em auto;
 	padding: 1em;
 	border: thin solid gray;
 }

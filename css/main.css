@@ -89,6 +89,10 @@ a {
 }
 
 a:hover {
+	color: red;
+}
+
+nav a:hover {
 	color: white;
 	background-color: green;
 }

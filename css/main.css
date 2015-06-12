@@ -89,16 +89,19 @@ a:hover {
 @media only screen and (max-width: 800px) {
 
 h1 {
-	font-size: 1.8em;
+	font-size: 1.5em;
 }
 nav {
 	float: none;
-	padding: 1em;
+	padding: .5em;
+}
+nav a {
+	padding: .5em;
 }
 .column {
 	float: none;
 	display: block;	
-	width: 60%;
+	width: 90%;
 	margin: 1em;
 	padding: 1em;
 	border: thin solid gray;

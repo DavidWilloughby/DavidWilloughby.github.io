@@ -9,7 +9,7 @@ body {
 h1 {
 	font-size: 2em;
 	float: left;
-	padding: 1em;
+	padding: 1.5em;
 }
 
 h2 {
@@ -49,6 +49,10 @@ img {
 
 .listhead {
 	font-style: italic;
+}
+
+.clear {
+	clear: both;
 }
 
 .credit {

@@ -41,6 +41,10 @@ img {
 	clear: both;
 }
 
+.wrapper {
+	position: relative;
+}
+
 .column, .column:before {
     width: 43%;
 }

@@ -42,7 +42,7 @@ img {
 }
 
 .column {
-	/*float: left;*/
+	float: left;
 	display: inline;
 	width: 40%;
 	margin: 1em;

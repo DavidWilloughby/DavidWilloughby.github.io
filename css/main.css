@@ -113,7 +113,8 @@ p, ul {
 .column {
 	float: none;
 	display: block;	
-	width: 60%;
+	width: 50%;
 	margin: 1em auto;
+	padding-top: 0.5em;
 }
 }

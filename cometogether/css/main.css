@@ -9,6 +9,7 @@ body {
 header {
   background-image: url("../images/ct2.jpg");
   background-repeat: no-repeat;
+  height: 400px;
   margin: 0 auto;
   width: 95%;
 }

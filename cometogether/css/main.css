@@ -43,14 +43,12 @@ nav {
 }
 
 nav a {
-	font-family: 'Archivo Narrow', sans-serif;
 	padding: 1em;
 	text-transform: uppercase;
 }
 
 img {
 	width: 95%;
-	clear: both;
 }
 
 

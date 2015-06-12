@@ -46,8 +46,9 @@ img {
 	display: inline;
 	width: 40%;
 	margin: 1em;
+	vertical-align: center;
 	padding: 1em;
-	border: 1px solid gray;
+	border: thin solid gray;
 }
 
 .listhead {

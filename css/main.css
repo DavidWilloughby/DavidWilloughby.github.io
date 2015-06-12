@@ -45,6 +45,7 @@ img {
 	float: left;
 	display: inline;
 	width: 43%;
+	min-height: 5em;
 	margin: 1em;
 	padding: 1em;
 	border: thin solid gray;

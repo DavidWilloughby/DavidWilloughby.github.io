@@ -41,6 +41,9 @@ img {
 	clear: both;
 }
 
+.column, .column:before {
+    width: 43%;
+}
 .column {
 	float: left;
 	display: inline;
@@ -50,7 +53,15 @@ img {
 	padding: 1em;
 	border: thin solid gray;
 }
-
+.column:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    left: 0;
+    background: #fff;
+}
 .listhead {
 	font-style: italic;
 	text-align: left;

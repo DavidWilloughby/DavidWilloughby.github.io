@@ -40,10 +40,6 @@ nav a {
 	padding: 1em;
 	text-transform: uppercase;
 }
-nav a:hover {
-	color: white;
-	background-color: green;
-}
 
 img {
 	width: 95%;
@@ -93,7 +89,8 @@ a {
 }
 
 a:hover {
-	color: red;
+	color: white;
+	background-color: green;
 }
 
 @media only screen and (max-width: 800px) {
@@ -144,10 +141,6 @@ nav a {
 	display: block;
 	padding: .5em;
 	font-size: 0.9em;
-}
-nav a:hover {
-	color: white;
-	background-color: green;
 }
 p, ul {
 	font-size: 0.8em;

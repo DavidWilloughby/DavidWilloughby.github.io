@@ -47,6 +47,8 @@ img {
 	width: 40%;
 	margin: 0 auto;
 	padding: 1em;
+	border-style: line;
+	border-color: gray;
 }
 
 .listhead {

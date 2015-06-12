@@ -3,10 +3,13 @@ body {
 	color: 000;
 	font-family: Garamond, serif;
 	text-align: center;
+	font-size: 16px;
 }
 
 h1 {
-	font-size: 40;
+	font-size: 2.5em;
+	float: left;
+	padding: 2em;
 }
 
 h1, h2 {
@@ -16,6 +19,11 @@ h1, h2 {
 
 p, ul {
 	font-family: 'Noto Serif', serif;
+}
+
+nav {
+	float: right;
+	padding: 2em;
 }
 
 img {

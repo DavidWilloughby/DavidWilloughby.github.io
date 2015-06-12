@@ -9,7 +9,7 @@ body {
 h1 {
 	font-size: 2.5em;
 	float: left;
-	padding: 2em;
+	padding: 1em;
 }
 
 h1, h2 {
@@ -23,11 +23,21 @@ p, ul {
 
 nav {
 	float: right;
-	padding: 2em;
+	padding: 1em;
+}
+
+nav a {
+	padding: 1em;
 }
 
 img {
-	width: 100%;
+	width: 95%;
+}
+
+.column {
+	display: inline;
+	width: 40%;
+	padding: 1em;
 }
 
 .listhead {

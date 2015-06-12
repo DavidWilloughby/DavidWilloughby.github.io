@@ -134,12 +134,16 @@ nav {
 	float: none;
 	display: block;
 	margin: 0 auto;
-	padding: 0;
+	padding: 0.3em;
 }
 nav a {
 	display: block;
 	padding: .5em;
 	font-size: 0.9em;
+}
+nav a:hover {
+	color: white;
+	background-color: green;
 }
 p, ul {
 	font-size: 0.8em;

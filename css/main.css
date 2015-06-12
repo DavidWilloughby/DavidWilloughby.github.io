@@ -41,11 +41,11 @@ img {
 	clear: both;
 }
 
-.columnwrapper {
+/*.columnwrapper {
 	display: block;
 	margin: 2em 0 2em 1em;
 	width: 95%;
-}
+}*/
 
 .column {
 	float: left;

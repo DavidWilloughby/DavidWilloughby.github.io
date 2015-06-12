@@ -90,11 +90,10 @@ a:hover {
 
 h1 {
 	font-size: 1.5em;
-	padding: .5em;
+	padding: 0 .5em;
 }
 nav {
-	float: none;
-	padding: .5em;
+	padding: 1em .5em .5em .5em;
 }
 nav a {
 	padding: .5em;

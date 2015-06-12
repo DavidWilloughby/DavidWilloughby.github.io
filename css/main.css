@@ -10,7 +10,10 @@ h1 {
 	font-size: 2em;
 	float: left;
 	padding: 1em;
-	display: inline;
+}
+
+h2 {
+	font-size: 1em;
 }
 
 h1, h2 {
@@ -24,7 +27,6 @@ p, ul {
 
 nav {
 	float: right;
-	display: inline;
 	padding: 1em;
 }
 
@@ -40,8 +42,8 @@ img {
 
 .column {
 	float: left;
-	display: inline;
 	width: 40%;
+	margin: 0 auto;
 	padding: 1em;
 }
 

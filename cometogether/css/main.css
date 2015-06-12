@@ -18,7 +18,7 @@ h1 {
 	font-size: 4em;
 	font-weight: 700;
 	float: left;
-	display: inline;
+	display: inline-block;
 	padding: 0;
 }
 
@@ -29,7 +29,7 @@ h1 a {
 h2 {
 	font-size: 2em;
 	float: right;
-	display: inline;
+	display: inline-block;
 }
 
 p, ul {

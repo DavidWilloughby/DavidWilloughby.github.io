@@ -46,7 +46,7 @@ img {
 	clear: both;
 }
 
-.columnwrap {
+#columnwrap {
 	display: block;
 	margin: 0 auto;
 }
@@ -55,7 +55,7 @@ img {
 	float: left;
 	display: inline;
 	width: 40%;
-	margin: 1em;
+	/*margin: 1em;*/
 	padding: 1em;
 	border: thin solid gray;
 }

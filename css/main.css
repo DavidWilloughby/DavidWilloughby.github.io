@@ -41,13 +41,18 @@ img {
 	clear: both;
 }
 
+.columnwrapper {
+	margin: 0 auto;
+	width: 95%;
+}
+
 .column {
 	float: left;
 	display: inline;
 	width: 40%;
 	margin: 0 auto;
 	padding: 1em;
-	border-style: line;
+	border-style: solid;
 	border-color: gray;
 }
 

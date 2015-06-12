@@ -118,3 +118,34 @@ p, ul {
 	padding-top: 0.5em;
 }
 }
+
+@media only screen and (max-width: 500px) {
+
+h1 {
+	font-size: 1.5em;
+	text-align: center;
+	padding: 1em;
+}
+h2 {
+	font-size: 1em;
+}
+nav {
+	display: block;
+	margin: 0 auto;
+	padding: .5em;
+}
+nav a {
+	padding: .5em;
+	font-size: 0.9em;
+}
+p, ul {
+	font-size: 0.8em;
+}
+.column {
+	float: none;
+	display: block;	
+	width: 90%;
+	margin: 0 auto;
+	padding-top: 0.5em;
+}
+}

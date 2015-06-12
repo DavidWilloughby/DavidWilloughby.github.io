@@ -90,6 +90,7 @@ a:hover {
 
 h1 {
 	font-size: 1.5em;
+	padding: .5em;
 }
 nav {
 	float: none;

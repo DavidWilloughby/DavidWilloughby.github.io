@@ -26,6 +26,10 @@ p, ul {
 	font-size: 1em;
 }
 
+ul {
+	text-align: left;
+}
+
 nav {
 	float: right;
 	padding: 2em 1em 1em 1em;
@@ -101,7 +105,7 @@ nav {
 }
 nav a {
 	padding: .5em;
-	font-size: 1.3em;
+	font-size: 0.8em;
 }
 p, ul {
 	font-size: 0.8em;
@@ -109,7 +113,7 @@ p, ul {
 .column {
 	float: none;
 	display: block;	
-	width: 90%;
+	width: 70%;
 	margin: 1em;
 	padding: 1em;
 	border: thin solid gray;

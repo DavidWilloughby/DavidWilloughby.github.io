@@ -42,15 +42,6 @@ img {
 
 .column1 {
 	float: left;
-	display: inline;
-	width: 40%;
-	margin: 0 auto;
-	padding: 1em;
-}
-
-.column2 {
-	float: left;
-	display: inline;
 	width: 40%;
 	margin: 0 auto;
 	padding: 1em;

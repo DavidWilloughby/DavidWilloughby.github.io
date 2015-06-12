@@ -119,7 +119,7 @@ p, ul {
 }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
 
 h1 {
 	float: none;

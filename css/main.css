@@ -18,6 +18,10 @@ p, ul {
 	font-family: 'Noto Serif', serif;
 }
 
+img {
+	width: 100%;
+}
+
 .listhead {
 	font-style: italic;
 }

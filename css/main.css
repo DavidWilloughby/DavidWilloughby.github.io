@@ -40,7 +40,14 @@ img {
 	width: 95%;
 }
 
-.column {
+.column1 {
+	float: left;
+	width: 40%;
+	margin: 0 auto;
+	padding: 1em;
+}
+
+.column2 {
 	float: left;
 	width: 40%;
 	margin: 0 auto;
@@ -63,10 +70,10 @@ hr {
 	width: 220px;
 }
 
-/*ul {
+ul {
 	display: inline-block;
 	text-align: left;
-}*/
+}
 
 a {
 	text-decoration: none;

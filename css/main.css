@@ -119,10 +119,10 @@ p, ul {
 }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 500px) {
 
 h1 {
-	font-size: 1.5em;
+	float: none;
 	text-align: center;
 	padding: 1em;
 }
@@ -130,6 +130,7 @@ h2 {
 	font-size: 1em;
 }
 nav {
+	float: none;
 	display: block;
 	margin: 0 auto;
 	padding: .5em;

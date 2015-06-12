@@ -51,11 +51,9 @@ img {
 	float: left;
 	display: inline;
 	width: 40%;
-	margin: 0 auto;
+	margin: 1em;
 	padding: 1em;
-	border-style: solid;
-	border-color: gray;
-	border-width: thin;
+	border: thin solid gray;
 }
 
 .listhead {

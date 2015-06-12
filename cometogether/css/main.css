@@ -8,6 +8,8 @@ body {
 
 header {
   background-image: url("../images/ct2.jpg");
+  background-repeat: no-repeat;
+  margin: 0 auto;
   width: 95%;
 }
 

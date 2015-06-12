@@ -1,0 +1,91 @@
+body {
+	background-color: fff;
+	color: 000;
+	font-family: arial, sans-serif;
+	text-align: left;
+	font-size: 16px;
+}
+
+h1 {
+	font-size: 2em;
+	float: left;
+	padding: 0 1em;
+}
+
+h1 a {
+	color: black;
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+h1, h2 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+}
+
+p, ul {
+	font-family: 'Noto Serif', serif;
+	font-size: 1em;
+}
+
+ul {
+	text-align: left;
+}
+
+nav {
+	float: right;
+	padding: 2.3em 1em 1em 1em;
+}
+
+nav a {
+	font-family: 'Archivo Narrow', sans-serif;
+	padding: 1em;
+	text-transform: uppercase;
+}
+
+img {
+	width: 95%;
+	clear: both;
+}
+
+
+.credit {
+	font-size: 10px;
+}
+
+hr {
+	width: 220px;
+}
+
+ul {
+	display: inline-block;
+	text-align: left;
+}
+
+a {
+	text-decoration: none;
+	color: green;
+}
+
+a:hover {
+	color: red;
+}
+
+nav a:hover {
+	color: white;
+	background-color: green;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (max-width: 520px) {
+
+}
+
+

@@ -44,7 +44,7 @@ img {
 .column {
 	float: left;
 	display: inline;
-	/*width: 40%;*/
+	width: 45%;
 	margin: 1em;
 	vertical-align: center;
 	padding: 1em;

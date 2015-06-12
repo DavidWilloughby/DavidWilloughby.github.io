@@ -9,11 +9,11 @@ body {
 h1 {
 	font-size: 2em;
 	float: left;
-	padding: 1.5em;
+	padding: 1em;
 }
 
 h2 {
-	font-size: 1em;
+	font-size: 1.5em;
 }
 
 h1, h2 {

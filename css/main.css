@@ -23,6 +23,7 @@ h1, h2 {
 
 p, ul {
 	font-family: 'Noto Serif', serif;
+	font-size: 1em;
 }
 
 nav {
@@ -93,13 +94,17 @@ h1 {
 	padding: 0 .75em;
 }
 h2 {
-	font-size: 1.2em;
+	font-size: 1.3em;
 }
 nav {
 	padding: 1.5em .5em .5em .5em;
 }
 nav a {
 	padding: .5em;
+	font-size: 1.3em;
+}
+p, ul {
+	font-size: 0.8em;
 }
 .column {
 	float: none;

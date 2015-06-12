@@ -47,7 +47,7 @@ img {
 }
 
 .columnwrap {
-	display: black;
+	display: block;
 	margin: 0 auto;
 }
 

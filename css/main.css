@@ -43,6 +43,7 @@ img {
 
 .column1 {
 	float: left;
+	display: inline-block;
 	width: 40%;
 	margin: 0 auto;
 	padding: 1em;

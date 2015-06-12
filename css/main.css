@@ -42,10 +42,10 @@ img {
 }
 
 .column {
-	float: left;
+	/*float: left;*/
 	display: inline;
 	width: 40%;
-	margin: 1em auto;
+	margin: 1em;
 	padding: 1em;
 	border: thin solid gray;
 }

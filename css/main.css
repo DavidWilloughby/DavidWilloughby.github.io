@@ -24,10 +24,12 @@ p, ul {
 
 nav {
 	float: right;
+	display: inline;
 	padding: 1em;
 }
 
 nav a {
+	font-family: 'Archivo Narrow', sans-serif;
 	padding: 1em;
 	text-transform: uppercase;
 }
@@ -37,6 +39,7 @@ img {
 }
 
 .column {
+	float: left;
 	display: inline;
 	width: 40%;
 	padding: 1em;

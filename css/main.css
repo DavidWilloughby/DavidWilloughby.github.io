@@ -43,6 +43,7 @@ img {
 
 .wrapper {
 	position: relative;
+	margin: 10em;
 }
 
 .column, .column:before {

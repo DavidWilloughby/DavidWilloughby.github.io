@@ -124,14 +124,13 @@ p, ul {
 h1 {
 	float: none;
 	text-align: center;
-	padding: 1em;
+	padding: .5em;
 }
 h2 {
 	font-size: 1em;
 }
 nav {
 	float: none;
-	display: block;
 	margin: 0 auto;
 	padding: .5em;
 }
@@ -146,7 +145,7 @@ p, ul {
 	float: none;
 	display: block;	
 	width: 90%;
-	margin: 0 auto;
+	margin: .5em auto;
 	padding-top: 0.5em;
 }
 }

@@ -40,6 +40,10 @@ nav a {
 	padding: 1em;
 	text-transform: uppercase;
 }
+nav a:hover {
+	color: white;
+	background-color: green;
+}
 
 img {
 	width: 95%;

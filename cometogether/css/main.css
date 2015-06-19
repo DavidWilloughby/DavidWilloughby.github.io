@@ -65,8 +65,13 @@ nav a {
 	font-size: 1.2em;
 }
 
-.about {
+.aboutsec {
 	background-color: #303030;
+}
+
+.about {
+	padding: 1em 2em 1em 2em;
+	text-align: left;
 }
 
 footer {

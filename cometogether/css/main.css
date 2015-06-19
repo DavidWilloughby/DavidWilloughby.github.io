@@ -17,6 +17,8 @@ header {
   background-size: cover;
   height: 700px;
   margin: 0 auto;
+  border-top: white 2px;
+  border-bottom: white 2px;
 }
 
 h1 {

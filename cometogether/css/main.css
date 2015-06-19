@@ -40,6 +40,10 @@ h2 {
 	display: block;
 }
 
+h3 {
+	font-size: 1em;
+}
+
 p, ul {
 	font-family: 'Noto Serif', serif;
 	font-size: 1em;
@@ -84,10 +88,7 @@ nav a {
 }
 
 #smalltext {
-	font-size: .7em;
-}
-#bold {
-	font-weight: bold;
+	font-size: .8em;
 }
 
 footer {

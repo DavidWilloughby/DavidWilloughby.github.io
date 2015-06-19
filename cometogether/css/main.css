@@ -1,6 +1,6 @@
 body {
-	background-color: fff;
-	color: 000;
+	background-color: #660000;
+	color: fff;
 	font-family: 'Arial', sans-serif;
 	text-align: center;
 	font-size: 16px;
@@ -25,7 +25,7 @@ h1 {
 	font-weight: 700;
 	display: block;
 	text-align: center;
-	padding-top: 320px;
+	padding-top: 200px;
 }
 
 h1 a {

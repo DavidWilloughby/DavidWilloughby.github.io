@@ -28,7 +28,7 @@ h1 {
 	font-weight: 700;
 	display: block;
 	text-align: center;
-	padding-top: 2.5em;
+	padding-top: 2.4em;
 }
 
 h1 a {
@@ -90,8 +90,11 @@ nav a {
 	text-align: left;
 }
 
-.smalltext {
+#smalltext {
 	font-size: .8em;
+}
+#bold {
+	font-weight: bold;
 }
 
 footer {

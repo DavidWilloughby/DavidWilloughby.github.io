@@ -70,23 +70,16 @@ nav a {
 	text-align: left;
 }
 
-.aboutsec {
-	background-color: #202020;
-	width: 100%;
-}
-
 .about {
+	background-color: #202020;
 	padding: 1em 4em 1em 4em;
 	text-align: left;
 }
 
-.membersec {
-	background-color: #202020;
-	width: 100%;
-}
-
 .membership {
+	background-color: #D2691E;
 	padding: 1em 4em 1em 4em;
+	color: #330000;
 	text-align: left;
 }
 

@@ -22,11 +22,11 @@ header {
 
 h1 {
 	font-family: 'Oswald', sans-serif;
-	font-size: 4em;
+	font-size: 4.5em;
 	font-weight: 700;
 	display: block;
 	text-align: center;
-	padding-top: 200px;
+	padding-top: 180px;
 }
 
 h1 a {
@@ -49,6 +49,7 @@ ul {
 
 nav {
 	clear: both;
+	color: #fff;
 	display: block;
 	padding: 1em;
 }
@@ -58,7 +59,6 @@ nav a {
 	text-transform: uppercase;
 	font-weight: bold;
 }
-
 
 footer {
 	background-color: #303030;

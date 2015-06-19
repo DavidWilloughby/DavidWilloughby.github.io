@@ -30,7 +30,8 @@ h1 {
 	font-weight: 700;
 	float: left;
 	display: inline-block;
-	padding: 0;
+	text-align: center;
+	padding: 4em;
 }
 
 h1 a {

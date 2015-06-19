@@ -8,12 +8,13 @@ body {
 
 .wrapper {
 	width: 95%;
-	margin: 1em;
+	margin: 0 auto;
 }
 
 header {
   background-image: url("../images/ct2.jpg");
   background-size: cover;
+  height: 600px;
   margin: 0 auto;
 }
 

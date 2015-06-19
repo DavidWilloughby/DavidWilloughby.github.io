@@ -28,7 +28,7 @@ h1 {
 	font-weight: 700;
 	display: block;
 	text-align: center;
-	padding-top: 3em;
+	padding-top: 2.5em;
 }
 
 h1 a {
@@ -73,12 +73,25 @@ nav a {
 .aboutsec {
 	background-color: #202020;
 	width: 100%;
-	overflow: hidden;
 }
 
 .about {
 	padding: 1em 4em 1em 4em;
 	text-align: left;
+}
+
+.membersec {
+	background-color: #202020;
+	width: 100%;
+}
+
+.membership {
+	padding: 1em 4em 1em 4em;
+	text-align: left;
+}
+
+.smalltext {
+	font-size: .8em;
 }
 
 footer {

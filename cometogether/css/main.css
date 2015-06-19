@@ -6,12 +6,15 @@ body {
 	font-size: 16px;
 }
 
+.wrapper {
+	width: 95%;
+	margin: 1em;
+}
+
 header {
   background-image: url("../images/ct2.jpg");
   background-size: cover;
-  height: 400px;
   margin: 0 auto;
-  width: 95%;
 }
 
 h1 {

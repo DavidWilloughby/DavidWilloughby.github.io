@@ -20,7 +20,7 @@ header {
 
 .overlay {
 	background: rgba(70, 72, 82, 0.3);
-	display: inline-block;
+	display: block;
 	height: 700px;
   	margin: 0 auto;
 }

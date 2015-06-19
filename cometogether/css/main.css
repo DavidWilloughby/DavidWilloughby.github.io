@@ -23,7 +23,7 @@ h1 {
 	font-family: 'Oswald', sans-serif;
 	font-size: 4em;
 	font-weight: 700;
-	display: inline;
+	display: block;
 	text-align: center;
 	padding-top: 320px;
 }
@@ -34,7 +34,7 @@ h1 a {
 
 h2 {
 	font-size: 2em;
-	display: inline;
+	display: block;
 }
 
 p, ul {

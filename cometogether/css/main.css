@@ -11,12 +11,17 @@ body {
 	margin: 0 auto;
 }
 
+.overlay {
+	background: rgba(70, 72, 82, 0.3);
+	height: 700px;
+  	margin: 0 auto;
+}
+
 header {
   background-image: url("../images/ct2.jpg");
   background-size: cover;
   height: 700px;
   margin: 0 auto;
-  background: rgba(70, 72, 82, 0.3)
 }
 
 h1 {

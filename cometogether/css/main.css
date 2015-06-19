@@ -94,6 +94,7 @@ nav a {
 footer {
 	background-color: #303030;
 	height: 200px;
+	font-size: .8em;
 	text-align: center;
 	padding-top: 1em;
 }

@@ -14,7 +14,7 @@ body {
 
 header {
   background-image: url("../images/ct2.jpg");
-  background-color: rgba(70, 72, 82, 0.3);
+  background-color: rgba(0, 0, 0, 0.7);
   background-size: cover;
   height: 700px;
   margin: 0 auto;

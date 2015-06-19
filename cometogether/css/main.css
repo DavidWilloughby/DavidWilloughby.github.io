@@ -63,10 +63,12 @@ nav a {
 
 .intro {
 	font-size: 1.2em;
+	padding: 1em 4em 1em 4em;
+	text-align: left;
 }
 
 .aboutsec {
-	background-color: #303030;
+	background-color: #202020;
 }
 
 .about {

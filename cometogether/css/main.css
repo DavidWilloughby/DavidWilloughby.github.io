@@ -70,12 +70,12 @@ nav a {
 .aboutsec {
 	background-color: #202020;
 	width: 100%;
+	overflow: hidden;
 }
 
 .about {
 	padding: 1em 4em 1em 4em;
 	text-align: left;
-	overflow: hidden;
 }
 
 footer {

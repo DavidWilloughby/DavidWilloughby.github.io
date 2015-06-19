@@ -1,13 +1,12 @@
 body {
 	background-color: #660000;
-	color: fff;
+	color: #fff;
 	font-family: 'Arial', sans-serif;
 	text-align: center;
 	font-size: 16px;
 }
 
 .wrapper {
-	width: 95%;
 	margin: 0 auto;
 }
 

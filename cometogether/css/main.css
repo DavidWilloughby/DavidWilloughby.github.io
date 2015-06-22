@@ -66,39 +66,37 @@ nav a {
 
 .intro {
 	width: 100%;
-	font-size: 1.4em;
 }
 	
 .col1 {
 	width: 80%;
-	padding: 1em 4em;
+	padding-top: 1em;
+	padding-left: 2em;
 	text-align: left;
 }
 
 .about {
 	background-color: #202020;
 	width: 100%;
-	padding: 1em 4em;
-	text-align: left;
 }
 
 .col2 {
 	width: 80%;
-	padding: 1em 4em;
+	padding-top: 1em;
+	padding-left: 2em;
 	text-align: left;
 }
 
 .membership {
 	background-color: #D2691E;
 	width: 100%;
-	padding: 1em 4em;
-	color: #000;
-	text-align: left;
 }
 
 .col3 {
+	color: #000;
 	width: 80%;
 	padding-top: 1em;
+	padding-left: 2em;
 	text-align: left;
 }
 

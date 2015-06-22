@@ -8,10 +8,6 @@ body {
 	padding: 0;
 }
 
-.wrapper {
-	margin: 0 auto;
-}
-
 header {
   background-image: url("../images/ct2.jpg");
   background-size: cover;
@@ -82,7 +78,7 @@ nav a {
 
 .membership {
 	background-color: #D2691E;
-	padding: 1em 4em 1em 4em;
+	padding: 1em 4em;
 	color: #000;
 	text-align: left;
 }

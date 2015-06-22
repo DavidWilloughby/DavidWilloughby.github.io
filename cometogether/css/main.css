@@ -71,7 +71,6 @@ nav a {
 	
 .col1 {
 	width: 80%;
-	max-width: 900px;
 	padding: 1em 4em;
 	text-align: left;
 }
@@ -85,7 +84,6 @@ nav a {
 
 .col2 {
 	width: 80%;
-	max-width: 900px;
 	padding: 1em 4em;
 	text-align: left;
 }
@@ -100,7 +98,6 @@ nav a {
 
 .col3 {
 	width: 80%;
-	max-width: 900px;
 	padding: 1em 4em;
 	text-align: left;
 }

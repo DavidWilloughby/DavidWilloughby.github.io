@@ -104,6 +104,37 @@ nav a {
 	text-align: left;
 }
 
+.find {
+	background-image: url("../images/ct3.jpg");
+	background-size: cover;
+  	min-height: 600px;
+  	max-height: 700px;
+	width: 100%;
+}
+
+.col4 {
+	color: #000;
+	width: 80%;
+	max-width: 900px;
+	padding: 1em;
+	margin-left: 4em;
+	text-align: left;
+}
+
+.contact {
+	background-color: #D2691E;
+	width: 100%;
+}
+
+.col5 {
+	color: #000;
+	width: 80%;
+	max-width: 900px;
+	padding: 1em;
+	margin-left: 4em;
+	text-align: left;
+}
+
 footer {
 	background-color: #303030;
 	height: 200px;
@@ -130,7 +161,7 @@ a:hover {
 }
 
 nav a:hover {
-	background-color: gray;
+	background-color: black;
 }
 
 

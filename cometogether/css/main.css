@@ -69,9 +69,10 @@ nav a {
 }
 	
 .col1 {
-	width: 70%;
+	width: 80%;
 	max-width: 900px;
-	padding: 1em 3em 1em 3em;
+	padding: 1em;
+	margin-left: 4em;
 	text-align: left;
 }
 
@@ -81,9 +82,10 @@ nav a {
 }
 
 .col2 {
-	width: 70%;
+	width: 80%;
 	max-width: 900px;
-	padding: 1em 3em 1em 3em;
+	padding: 1em;
+	margin-left: 4em;
 	text-align: left;
 }
 
@@ -94,10 +96,10 @@ nav a {
 
 .col3 {
 	color: #000;
-	width: 70%;
+	width: 80%;
 	max-width: 900px;
 	padding: 1em;
-	margin-left: 3em;
+	margin-left: 4em;
 	text-align: left;
 }
 

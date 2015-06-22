@@ -72,13 +72,13 @@ nav a {
 	width: 80%;
 	max-width: 900px;
 	padding: 1em;
-	margin-left: 4em;
-	font-size: 1.2em;
+	margin-left: 3em;
+	font-size: 1.3em;
 	text-align: left;
 }
 
 .about {
-	background-color: #f8f8f8;
+	background-color: #f0f0f0;
 	width: 100%;
 }
 

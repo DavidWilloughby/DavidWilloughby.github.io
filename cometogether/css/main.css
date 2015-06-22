@@ -70,7 +70,7 @@ nav a {
 	
 .col1 {
 	width: 80%;
-	padding-top: 1em 3em;
+	padding: 1em 3em;
 	text-align: left;
 }
 
@@ -81,7 +81,7 @@ nav a {
 
 .col2 {
 	width: 80%;
-	padding-top: 1em 3em;
+	padding: 1em 3em;
 	text-align: left;
 }
 
@@ -93,7 +93,7 @@ nav a {
 .col3 {
 	color: #000;
 	width: 80%;
-	padding-top: 1em 3em;
+	padding: 1em 3em;
 	text-align: left;
 }
 

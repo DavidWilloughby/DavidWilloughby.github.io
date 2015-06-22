@@ -64,6 +64,10 @@ nav a {
 	font-weight: bold;
 }
 
+#logo {
+	font-family: 'Oswald', sans-serif;
+}
+
 .intro {
 	width: 100%;
 }

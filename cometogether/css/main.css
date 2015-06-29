@@ -175,7 +175,7 @@ nav a:hover {
 @media only screen and (max-width: 600px) {
 
 header {
-	background-image: 100%;
+	background-size: 100%;
   	max-width: 600px;
   	max-height: 300px;
 }

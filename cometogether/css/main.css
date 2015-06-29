@@ -176,7 +176,6 @@ nav a:hover {
 @media only screen and (max-width: 600px) {
 
 header {
-  	min-width: 600px;
   	min-height: 300px;
   	text-align: center;
 }
@@ -245,7 +244,7 @@ nav a {
 
 .find {
   	max-width: 600px;
-  	max-height: 400px;
+  	min-height: 300px;
 	width: 100%;
 }
 

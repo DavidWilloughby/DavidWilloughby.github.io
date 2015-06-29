@@ -222,7 +222,6 @@ nav a {
 }
 
 #logo {
-	font-family: 'Oswald', sans-serif;
 	font-size: .8em;
 }
 
@@ -233,45 +232,36 @@ nav a {
 	padding: 1em;
 	margin-left: 1em;
 	font-size: 1.3em;
-	text-align: left;
 }
 
 
 .col2 {
-	color: #000;
 	width: 85%;
-	max-width: 900px;
 	padding: 1em;
 	margin-left: 1em;
 }
 
 .col3 {
-	color: #000;
 	width: 85%;
-	max-width: 900px;
 	padding: 1em;
 	margin-left: 1em;
 }
 
 .find {
-  	max-width: 600px;
   	min-height: 300px;
 	width: 100%;
 }
 
 .col4 {
-	color: #000;
 	width: 40%;
-	max-width: 400px;
+	max-width: 200px;
 	padding: 1em;
 	margin-left: 1em;
 }
 
 
 .col5 {
-	color: #fff;
 	width: 85%;
-	max-width: 900px;
 	padding: 1em;
 	margin-left: 1em;
 }

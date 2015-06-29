@@ -175,6 +175,7 @@ nav a:hover {
 @media only screen and (max-width: 600px) {
 
 header {
+  	background-size: 70%;
   	max-width: 600px;
   	max-height: 400px;
 }
@@ -197,10 +198,10 @@ p, ul {
 }
 
 nav {
-	clear: both;
-	color: #fff;
-	display: block;
+	float: none;
 	padding-top: 1em;
+	padding-left: 3em;
+	padding-right: 3em;
 	padding-bottom: 1em;
 }
 
@@ -215,7 +216,7 @@ nav a {
 
 	
 .col1 {
-	width: 80%;
+	width: 90%;
 	max-width: 900px;
 	padding: 1em;
 	margin-left: 1em;
@@ -226,7 +227,7 @@ nav a {
 
 .col2 {
 	color: #000;
-	width: 80%;
+	width: 90%;
 	max-width: 900px;
 	padding: 1em;
 	margin-left: 1em;
@@ -234,7 +235,7 @@ nav a {
 
 .col3 {
 	color: #000;
-	width: 80%;
+	width: 90%;
 	max-width: 900px;
 	padding: 1em;
 	margin-left: 1em;
@@ -248,7 +249,7 @@ nav a {
 
 .col4 {
 	color: #000;
-	width: 40%;
+	width: 50%;
 	max-width: 400px;
 	padding: 1em;
 	margin-left: 1em;
@@ -257,7 +258,7 @@ nav a {
 
 .col5 {
 	color: #fff;
-	width: 80%;
+	width: 90%;
 	max-width: 900px;
 	padding: 1em;
 	margin-left: 1em;

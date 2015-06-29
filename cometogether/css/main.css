@@ -176,6 +176,7 @@ nav a:hover {
 
 header {
   	max-width: 600px;
+  	max-height: 400px;
 }
 
 h1 {
@@ -188,12 +189,11 @@ h2 {
 }
 
 h3 {
-	font-size: .9em;
+	font-size: 1em;
 }
 
 p, ul {
-	font-family: 'Noto Serif', serif;
-	font-size: .7em;
+	font-size: .8em;
 }
 
 nav {
@@ -210,7 +210,7 @@ nav a {
 
 #logo {
 	font-family: 'Oswald', sans-serif;
-	font-size: .6em;
+	font-size: .8em;
 }
 
 	
@@ -218,7 +218,7 @@ nav a {
 	width: 80%;
 	max-width: 900px;
 	padding: 1em;
-	margin-left: 3em;
+	margin-left: 1em;
 	font-size: 1.3em;
 	text-align: left;
 }
@@ -229,7 +229,7 @@ nav a {
 	width: 80%;
 	max-width: 900px;
 	padding: 1em;
-	margin-left: 4em;
+	margin-left: 1em;
 }
 
 .col3 {
@@ -237,11 +237,12 @@ nav a {
 	width: 80%;
 	max-width: 900px;
 	padding: 1em;
-	margin-left: 4em;
+	margin-left: 1em;
 }
 
 .find {
   	max-width: 600px;
+  	max-height: 400px;
 	width: 100%;
 }
 
@@ -250,7 +251,7 @@ nav a {
 	width: 40%;
 	max-width: 400px;
 	padding: 1em;
-	margin-left: 4em;
+	margin-left: 1em;
 }
 
 
@@ -259,7 +260,7 @@ nav a {
 	width: 80%;
 	max-width: 900px;
 	padding: 1em;
-	margin-left: 4em;
+	margin-left: 1em;
 }
 
 }

@@ -11,6 +11,7 @@ body {
 header {
   background-image: url("../images/ct2.jpg");
   background-size: cover;
+  width: 100%;
   min-height: 600px;
   max-height: 700px;
   margin: 0 auto;
